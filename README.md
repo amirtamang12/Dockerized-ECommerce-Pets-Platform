@@ -61,5 +61,3 @@ Because this project is containerized, you do not need to install PHP or MySQL l
     ```bash
     docker-compose down
     ```
-
-# Dockerized-ECommerce-Pets-Platform
